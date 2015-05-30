@@ -1,0 +1,222 @@
+/* CSS Document */
+html{
+	background-color:white;	
+}
+body{
+	width:790px;
+ 	margin: 25px auto;
+	background-color:#fff;
+	font-family: "Myriad Web Pro", Georgia, "Times New Roman", Times, serif;
+}
+
+p {
+	font:Verdana, Geneva, sans-serif. 10pt, black;
+	text-align: left;
+}
+
+a img{
+	border:none;
+}
+
+a{
+	color:#005d09;
+}
+
+a:hover{
+	color:#17c227;
+}
+
+h1 {
+	font-size:24px;
+	color:#005d09;
+}
+
+h2 {
+	font-size:18px;
+	color:#17c227;
+}
+
+#header {
+	height:99px;
+	border-bottom: 1px solid #000;
+}
+
+#header img {
+	float:left;
+}
+
+#header p {
+	margin-top:45px;
+	color:#005d09;
+	font-weight:bold;
+	font-size:larger;
+}
+
+#header #nav {
+	height:24px;
+}
+
+#header #nav ul {
+	float:right;
+	width:100%;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+#header #nav a {
+	float:Right;
+	padding:2px 5px;
+}
+#header #nav li {
+	display:inline;
+}
+
+#main {
+	min-height:450px;	
+}
+
+#main p,
+#faq,
+#policy {
+	padding:25px;	
+}
+#footer {
+	height:50px;
+	border-top: 1px solid #000;
+}
+
+#footer #copy {
+	float:right;
+	width:500px;
+	margin-top:-23px;
+}
+
+#footer #copy p {
+	padding-left:45px;
+	padding-top:5px;
+	float:right;
+}
+
+#footer #fairy img {
+	float:right;
+	margin-top:-24px;
+}
+
+#footer #nav {
+	padding-top:5px;
+}
+
+#footer #nav ul {
+	float:left;
+	width:100%;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+
+#footer #nav a {
+	float:left;
+	padding:2px 5px;
+}
+
+#footer #nav li {
+	display:inline;
+	font-size:smaller;
+}
+
+#homeContent {
+	padding-top:25px;	
+}
+
+#homeContent div:first-of-type
+{
+	width:70%;
+	padding:0 25px;
+	float:left;
+}
+
+#homeContent div:last-of-type {
+	float:right;
+}
+
+#serviceArea {
+	padding:25px;
+}
+
+#serviceArea div:first-of-type
+{
+	width:35%;
+	padding:0 25px;
+	float:left;
+}
+
+#homeContent div:last-of-type {
+	float:right;
+}
+
+#homeContent div:first-of-type p,
+#faq p,
+#serviceArea p
+{
+	padding:0;
+}
+
+#services>img {
+	width:300px;
+	height:216px;
+	display: block;  
+	margin: auto;
+ }
+
+#services #pricing {
+	float:left;
+	padding:25px;
+}
+
+#services #pricing p{
+	padding:0;
+	font-weight:bold;
+}
+
+#services #pricing table tbody tr:first-of-type td {
+	border-bottom:1px solid #000;
+}
+
+#services #packages {
+	float:right;
+	padding:25px;
+}
+
+#services #packages p{
+	padding:0;
+	font-weight:bold;
+}
+
+#contact form table {
+	margin-top:25px;
+	width:250px;
+	margin-left: auto;   
+	margin-right: auto;
+}
+
+#contact form p {
+	padding:0;	
+}
+
+input[type="text"],
+textarea
+{
+	border: 1px solid #005d09;
+}
+
+.contact {
+	display:block;
+	clear:both;
+	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-bottom:25px;
+	font-size:12px;	
+	text-align:center;
+	z-index:2;
+}

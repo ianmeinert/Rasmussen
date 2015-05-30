@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    
+    <!-- Mimic use the highest mode available-->
+    <meta http-equiv="X-UA-Compatible" content="IE=Emulate IE7" >
+	<link href="styles/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+    <meta name="Keywords" content="" />
+    <meta name="Description" content="" />
+
+	<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="header">
+		<div id="nav">
+			<ul>
+                <li><a href="contact.htm">Contact Us</a></li>
+                <li><a href="about.htm">About Us</a></li> 
+				<li><a href="services.htm">Services</a></li>
+				<li><a href="index.htm">Home</a></li>
+			</ul>
+		</div>
+       	<a href="index.htm"><img src="images/logo.png" title="Bundles of Joy Logo" alt="Bundles of Joy logo" /></a>
+        <p>An emerging green delivery service</p>
+
+    </div>
+
+    <div id="main">
+    <!-- TemplateBeginEditable name="body" -->
+	
+	<!-- TemplateEndEditable -->
+    </div>
+    <div id="footer">
+        <div id="nav">
+            <ul>
+                    <li><a href="policy.htm">Policy</a></li>
+                    <li><a href="faq.htm">FAQ</a></li>
+                    <li><a href="servicearea.htm">Service Area</a></li>
+                    <li><a href="internal/login.php">Employee Login</a></li>
+            </ul>
+        </div>
+        <div id="fairy">
+        	<img src="images/fairy.png" title="Diaper Fairy" alt="Diaper fairy" />
+        </div>
+        <div id="copy">
+    		<p>&copy; Copyright 2012 | Ian Meinert | All rights reserved</p>
+        </div>
+        <div class="contact"><p>Bundles of Joy | 123 Tulane Rd, Aurora, Colorado 80011 | (123) 465-7890</p></div>        
+    </div>
+</body>
+</html>

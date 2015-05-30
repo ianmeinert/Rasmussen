@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /audit/
+Disallow: /feeds/
+Disallow: /images/
+Disallow: /internal/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /Templates/

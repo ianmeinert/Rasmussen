@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/publicSite.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    
+    <!-- Mimic use the highest mode available-->
+    <meta http-equiv="X-UA-Compatible" content="IE=Emulate IE7" >
+	<link href="styles/styles.css" rel="stylesheet" type="text/css">
+<!-- InstanceBeginEditable name="head" -->
+    <meta name="Keywords" content="" />
+    <meta name="Description" content="" />
+
+	<script src="scripts/SpryValidationTextField.js" type="text/javascript"></script>
+    <script src="scripts/SpryValidationTextarea.js" type="text/javascript"></script>
+    <link href="styles/SpryValidationTextField.css" rel="stylesheet" type="text/css">
+    <link href="styles/SpryValidationTextarea.css" rel="stylesheet" type="text/css">
+    
+    <title>Contact Us</title>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+	<div id="header">
+		<div id="nav">
+			<ul>
+                <li><a href="contact.htm">Contact Us</a></li>
+                <li><a href="about.htm">About Us</a></li> 
+				<li><a href="services.htm">Services</a></li>
+				<li><a href="index.htm">Home</a></li>
+			</ul>
+		</div>
+       	<a href="index.htm"><img src="images/logo.png" title="Bundles of Joy Logo" alt="Bundles of Joy logo" /></a>
+        <p>An emerging green delivery service</p>
+
+    </div>
+
+    <div id="main">
+    <!-- InstanceBeginEditable name="body" -->
+    <div id="contact">
+    	<h1>Send us your feedback!</h1>
+		<p>We appreciate your business and your feedback. Please let us know about any questions that you may have by using the form below.</p>
+        <form action="mailto:ian.meinert@smail.rasmussen.edu" method="post" name="contactForm">
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td>
+                      <span id="sprytextfield1">
+                            <input name="name" type="text" size="20" maxlength="20"><br />
+                            <span class="textfieldRequiredMsg">Please include your name.</span>
+                        </span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                  	<td>
+                      <span id="sprytextfield2">
+                            <input name="email" type="text" size="20" maxlength="50"><br />
+                            <span class="textfieldRequiredMsg">A valid email address is required.</span>
+                        </span>
+                    </td>
+                </tr>
+                <tr>
+					<td colspan="2">
+                    	<p>Add your questions/comments in the field below.<br />
+						<span id="sprytextarea1">
+                            <span class="textareaRequiredMsg">Did you forget to add your question/comment?</span>
+                            <textarea name="comments" cols="45" rows="5"></textarea>
+                        </span></p>
+                  	</td>
+                    
+                </tr>
+                <tr>
+                	<td colspan="2">
+                    <input name="Submit" type="submit"><input name="Reset" type="reset">
+                    </td>
+            
+          </table>
+        </form>
+    </div>
+	<script type="text/javascript">
+		var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1");
+		var sprytextfield2 = new Spry.Widget.ValidationTextField("sprytextfield2");
+		var sprytextarea1 = new Spry.Widget.ValidationTextarea("sprytextarea1");
+    </script>
+    <!-- InstanceEndEditable -->
+    </div>
+    <div id="footer">
+        <div id="nav">
+            <ul>
+                    <li><a href="policy.htm">Policy</a></li>
+                    <li><a href="faq.htm">FAQ</a></li>
+                    <li><a href="servicearea.htm">Service Area</a></li>
+                    <li><a href="internal/login.php">Employee Login</a></li>
+            </ul>
+        </div>
+        <div id="fairy">
+        	<img src="images/fairy.png" title="Diaper Fairy" alt="Diaper fairy" />
+        </div>
+        <div id="copy">
+    		<p>&copy; Copyright 2012 | Ian Meinert | All rights reserved</p>
+        </div>
+        <div class="contact"><p>Bundles of Joy | 123 Tulane Rd, Aurora, Colorado 80011 | (123) 465-7890</p></div>        
+    </div>
+</body>
+<!-- InstanceEnd --></html>

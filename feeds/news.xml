@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<news>
+	<article>
+		<date>April 25, 2012</date>
+		<department>Training</department>
+		<author>Jerry Jones</author>
+		<headline>New Diapers Inbound</headline>
+		<content>We have a new style of diapers coming in, so be prepared for some company wide training. The date of training will be posted later.</content>
+	</article>
+	<article>
+		<date>April 24, 2012</date>
+		<department>HR</department>
+		<author>Tammy Thompson</author>
+		<headline>Driver's needed!</headline>
+		<content>If you or someone you know would like to drive our bundles for Bundles of Joy, be sure to have them apply here at my desk.</content>
+	</article>
+	<article>
+		<date>April 1, 2012</date>
+		<department>Helpdesk</department>
+		<author>Mr. Dilbert</author>
+		<headline>Website Familiarization</headline>
+		<content>We will be having website familiarization on May 1st! There are new features and additions that we didn't have before</content>
+	</article>
+	<article>
+		<date>March 1, 2012</date>
+		<department>HR</department>
+		<author>Tammy Thompson</author>
+		<headline>Driver's needed!</headline>
+		<content>If you or someone you know would like to drive our bundles for Bundles of Joy, be sure to have them apply here at my desk.</content>
+	</article>
+	<article>
+		<date>February 25, 2012</date>
+		<department>Training</department>
+		<author>Jerry Jones</author>
+		<headline>New Diapers Inbound</headline>
+		<content>We have a new style of diapers coming in, so be prepared for some company wide training. The date of training will be posted later.</content>
+	</article>
+	<article>
+		<date>February 24, 2012</date>
+		<department>HR</department>
+		<author>Tammy Thompson</author>
+		<headline>Driver's needed!</headline>
+		<content>If you or someone you know would like to drive our bundles for Bundles of Joy, be sure to have them apply here at my desk.</content>
+	</article>
+	<article>
+		<date>February 1, 2012</date>
+		<department>Helpdesk</department>
+		<author>Mr. Dilbert</author>
+		<headline>Website Familiarization</headline>
+		<content>We will be having website familiarization on May 1st! There are new features and additions that we didn't have before</content>
+	</article>
+	<article>
+		<date>January 1, 2012</date>
+		<department>HR</department>
+		<author>Tammy Thompson</author>
+		<headline>Driver's needed!</headline>
+		<content>If you or someone you know would like to drive our bundles for Bundles of Joy, be sure to have them apply here at my desk.</content>
+	</article>
+</news>
